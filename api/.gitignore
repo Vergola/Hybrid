@@ -1,0 +1,30 @@
+# Ignore Visual Studio, JetBrains Rider, and VS Code files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+.idea/
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Output directories
+bin/
+obj/
+# Exclude the Properties folder
+Properties/
